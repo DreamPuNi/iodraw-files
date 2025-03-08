@@ -291,7 +291,7 @@
           <mxGeometry x="1255" y="550" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-98" value="用户对话模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1241" y="850" width="80" height="80" as="geometry" />
+          <mxGeometry x="1230" y="850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-99" value="斯坦福小镇模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1350" y="850" width="80" height="80" as="geometry" />
@@ -302,7 +302,7 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-101" value="提示词管理模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1241" y="960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-102" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-102" value="自思考和奇思妙想模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1350" y="960" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
