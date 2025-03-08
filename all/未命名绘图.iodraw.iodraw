@@ -50,9 +50,6 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-12" value="消息窗口组装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-16" value="&lt;div&gt;斯坦福小镇数据库&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="748.75" y="580" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-15" target="xNZAyNlJNCB5_97BLLlc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -138,11 +135,15 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-38" value="发送AI回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="218" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-2" target="xNZAyNlJNCB5_97BLLlc-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759.25" y="583.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-16" target="xNZAyNlJNCB5_97BLLlc-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xNZAyNlJNCB5_97BLLlc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="808.25" y="583.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-43" value="斯坦福小镇路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="300" width="110" height="30" as="geometry" />
@@ -209,15 +210,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xNZAyNlJNCB5_97BLLlc-53" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-58">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="奇思妙想和思考模块" treeRoot="1" id="xNZAyNlJNCB5_97BLLlc-68">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="xNZAyNlJNCB5_97BLLlc-53">
             <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70" target="xNZAyNlJNCB5_97BLLlc-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="783.75" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70" target="xNZAyNlJNCB5_97BLLlc-76">
           <mxGeometry relative="1" as="geometry" />
