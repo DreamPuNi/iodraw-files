@@ -281,11 +281,17 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-92" target="xNZAyNlJNCB5_97BLLlc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-92" target="xNZAyNlJNCB5_97BLLlc-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-92" value="&lt;div&gt;记忆分析AI&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="230" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-96" value="长期记忆管理数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="550" width="200" height="200" as="geometry" />
+          <mxGeometry x="1255" y="550" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-98" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1241" y="850" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
