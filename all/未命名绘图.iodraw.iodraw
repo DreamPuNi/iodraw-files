@@ -201,6 +201,16 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-67" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="xNZAyNlJNCB5_97BLLlc-56" target="xNZAyNlJNCB5_97BLLlc-68" parent="xNZAyNlJNCB5_97BLLlc-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-86" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xNZAyNlJNCB5_97BLLlc-53" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xNZAyNlJNCB5_97BLLlc-53" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="奇思妙想和思考模块" treeRoot="1" id="xNZAyNlJNCB5_97BLLlc-68">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="xNZAyNlJNCB5_97BLLlc-53">
             <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
@@ -240,8 +250,13 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="消息记录数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="370" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-84" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-85" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
