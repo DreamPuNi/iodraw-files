@@ -50,8 +50,10 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-12" value="消息窗口组装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-16" target="xNZAyNlJNCB5_97BLLlc-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="565" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-16" value="&lt;div&gt;斯坦福小镇数据库&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="748.75" y="580" width="70" height="70" as="geometry" />
@@ -143,23 +145,28 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-44" value="根据需求生成小镇角色详细信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-46" target="xNZAyNlJNCB5_97BLLlc-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="615" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-46" value="载入参数生成小镇角色系统提示词" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="570" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-48" target="xNZAyNlJNCB5_97BLLlc-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xNZAyNlJNCB5_97BLLlc-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="614" y="665" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-48" value="斯坦福小镇" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="515" width="200" height="200" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464" y="715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-53" target="xNZAyNlJNCB5_97BLLlc-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-53" target="xNZAyNlJNCB5_97BLLlc-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-60" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-53" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="29" y="780" width="770" height="270" as="geometry" />
@@ -184,9 +191,17 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-61" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="xNZAyNlJNCB5_97BLLlc-56" target="xNZAyNlJNCB5_97BLLlc-62" parent="xNZAyNlJNCB5_97BLLlc-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;斯坦福小镇模块&lt;/div&gt;" treeRoot="1" id="xNZAyNlJNCB5_97BLLlc-62">
+        <UserObject label="计划生成及应变模型" treeRoot="1" id="xNZAyNlJNCB5_97BLLlc-62">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="xNZAyNlJNCB5_97BLLlc-53">
             <mxGeometry x="325" y="140" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-63" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="xNZAyNlJNCB5_97BLLlc-56" target="xNZAyNlJNCB5_97BLLlc-64" parent="xNZAyNlJNCB5_97BLLlc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;斯坦福小镇模块&lt;/div&gt;" treeRoot="1" id="xNZAyNlJNCB5_97BLLlc-64">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="xNZAyNlJNCB5_97BLLlc-53">
+            <mxGeometry x="481" y="140" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
