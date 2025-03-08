@@ -56,6 +56,9 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-15" target="xNZAyNlJNCB5_97BLLlc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-18" target="xNZAyNlJNCB5_97BLLlc-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-18" value="信息管理AI" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472.5" y="410" width="80" height="80" as="geometry" />
         </mxCell>
@@ -231,8 +234,14 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-76" value="虚拟现实交会处" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="452.5" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="405" width="60" height="60" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-81" target="xNZAyNlJNCB5_97BLLlc-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="消息记录数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="370" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-84" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
