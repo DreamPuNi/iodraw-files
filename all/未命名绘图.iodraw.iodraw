@@ -135,16 +135,6 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-38" value="发送AI回复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="218" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.25" y="583.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.85;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xNZAyNlJNCB5_97BLLlc-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="808.25" y="583.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-43" value="斯坦福小镇路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="105" y="300" width="110" height="30" as="geometry" />
         </mxCell>
@@ -221,11 +211,6 @@
             <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="783.75" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70" target="xNZAyNlJNCB5_97BLLlc-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -254,6 +239,11 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-81" target="xNZAyNlJNCB5_97BLLlc-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="消息记录数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="370" width="130" height="120" as="geometry" />
         </mxCell>
@@ -264,6 +254,9 @@
               <mxPoint x="900" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-89" value="&lt;div&gt;总结出新版双系统提示词&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
