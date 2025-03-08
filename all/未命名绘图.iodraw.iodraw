@@ -193,8 +193,14 @@
             <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-70" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="572.5" y="630" width="80" height="80" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-70" target="xNZAyNlJNCB5_97BLLlc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-70" value="经历发生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-73" value="这里是根据事件响度和情绪进行排序的话题列表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="718" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
