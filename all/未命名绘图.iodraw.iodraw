@@ -251,7 +251,10 @@
             <mxPoint x="1160" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="消息记录数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-81" target="xNZAyNlJNCB5_97BLLlc-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-81" value="全消息记录数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="370" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-85" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-68" target="xNZAyNlJNCB5_97BLLlc-2">
@@ -265,11 +268,24 @@
         <mxCell id="xNZAyNlJNCB5_97BLLlc-89" value="&lt;div&gt;总结出新版双系统提示词&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-90" target="xNZAyNlJNCB5_97BLLlc-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1318" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xNZAyNlJNCB5_97BLLlc-90" value="短期记忆管理数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="190" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xNZAyNlJNCB5_97BLLlc-92" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xNZAyNlJNCB5_97BLLlc-92" target="xNZAyNlJNCB5_97BLLlc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-92" value="&lt;div&gt;记忆分析AI&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="230" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xNZAyNlJNCB5_97BLLlc-96" value="长期记忆管理数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="550" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
